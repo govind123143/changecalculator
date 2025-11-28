@@ -4,6 +4,14 @@ A beginner-friendly Ethereum smart contract that accepts a payment, compares it 
 The contract owner can set the item price anytime and withdraw collected funds.
 
 ---
+## 🔗 Deployed Smart Contract
+
+**Network:** (XXX — replace with your network name)  
+**Contract Address:**  
+https://coston2-explorer.flare.network/tx/0x5573fc593eec6746c5530c2039c6d394c2cb28bb17642bb776cf419c8cbd1e77
+
+---
+<img width="1898" height="846" alt="Screenshot 2025-11-28 134749" src="https://github.com/user-attachments/assets/896bd13a-99a3-4322-9299-1e2bdd2299ca" />
 
 ## 📌 Project Description
 
@@ -118,13 +126,7 @@ Commented code, clean structure, and safe patterns.
 
 ---
 
-## 🔗 Deployed Smart Contract
 
-**Network:** (XXX — replace with your network name)  
-**Contract Address:**  
-https://coston2-explorer.flare.network/tx/0x5573fc593eec6746c5530c2039c6d394c2cb28bb17642bb776cf419c8cbd1e77
-
----
 
 ## 📂 Smart Contract Code
 
